@@ -19,7 +19,7 @@
 <h1>Search!</h1>
 <p>You  may search by name.</p>
 <form method="post" action="index.php" enctype="multipart/form-data" >
-      Name  <input type="text" name="name" id="name"/></br>
+      Search:  <input type="text" name="name" id="name"/></br>
       <input type="submit" name="submit" value="Submit" />
 </form>
 

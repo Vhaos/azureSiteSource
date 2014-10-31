@@ -47,7 +47,7 @@
     try {
               // Retrieve data
               $name = $_POST['name'];
-              $sql_select = "SELECT * FROM registration_tbl WHERE name LIKE '%" . $name .  "%' OR email LIKE '%" . $name ."%'";
+              $sql_select = "SELECT * FROM registration_tbl WHERE name LIKE '%" . $name .  "%' OR email LIKE '%" . $name ."%'  OR company LIKE '%" . $name ."%'";
               $stmt = $conn->query($sql_select);
               $registrants = $stmt->fetchAll(); 
               if(count($registrants) > 0) {

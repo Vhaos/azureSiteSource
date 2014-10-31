@@ -24,6 +24,8 @@
       <input type="submit" name="submit" value="Submit" />
 </form>
 <?php
+    //just a comment, to test that deployment to git works
+
     // DB connection info
     //TODO: Update the values for $host, $user, $pwd, and $db
     //using the values you retrieved earlier from the portal.

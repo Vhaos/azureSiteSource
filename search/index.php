@@ -24,7 +24,7 @@
 </form>
 
 
-<p>hi!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+<!-- <p>hi!!!!!!!!!!!!!!!!!!!!!!!!!!!</p> -->
 <?php
     //just a comment, to test that deployment to git works
 

@@ -1,4 +1,4 @@
 azureSiteSource
 ===============
 
-test files for azure site website hosting services
+test files for azure site website hosting services.
